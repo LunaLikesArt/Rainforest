@@ -22,7 +22,7 @@
  
 //                               key1     :   object1
     NSDictionary *playerData = @{@"player": o1};
-    
+     
     NSDictionary *obstacle1 = @{@"placement": @"top", @"color": @"green", @"height": @200};
     NSDictionary *obstacle2 = @{@"placement": @"bottom", @"color": @"brown", @"height": @200};
     
